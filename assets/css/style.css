@@ -1,0 +1,38 @@
+body{
+    background-color: forestgreen;
+}
+
+.titulo{
+    color:blueviolet;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid blue;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+/*forma vertical*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 0;
+    padding: 0;
+    background-color: blueviolet;
+    padding: auto;
+}
+
+li {
+    display: inline;
+    margin-left: 50px;
+    font-size: 25px;
+    
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    display: 10%;
+}
